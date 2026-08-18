@@ -13,7 +13,7 @@ Dadmehr Rahbari*, Masoud Daneshtalab**, Maksim Jenihhin*
 [![Framework: PyTorch](https://img.shields.io/badge/Framework-PyTorch%202.0+-ee4c2c.svg)](https://pytorch.org/)
 [![Dataset: CITYSCAPES](https://img.shields.io/badge/Dataset-CITYSCAPES-green.svg)](https://www.cityscapes-dataset.com/)
 [![Analytics: Scikit-Learn](https://img.shields.io/badge/Analytics-Scikit--Learn-F7931E.svg)](https://scikit-learn.org/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21993740.svg)](https://doi.org/10.5281/zenodo.21993740)
+[![DOI](https://zenodo.org/badge/1338275563.svg)](https://doi.org/10.5281/zenodo.21993740)
 
 ---
 

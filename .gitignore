@@ -1,0 +1,46 @@
+# ----------------------
+# Python cache
+# ----------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ----------------------
+# Virtual environments
+# ----------------------
+venv/
+env/
+ENV/
+
+# ----------------------
+# Build artifacts / packaging
+# ----------------------
+build/
+dist/
+*.egg-info/
+
+# ----------------------
+# IDE / editor settings
+# ----------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ----------------------
+# OS / system files
+# ----------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------
+# Dataset files
+# ----------------------
+data/
+**/data/
+
+# ----------------------
+# PyInstaller / packaging
+# ----------------------
+*.manifest
+*.spec

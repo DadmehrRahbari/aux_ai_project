@@ -13,6 +13,7 @@ Dadmehr Rahbari*, Masoud Daneshtalab**, Maksim Jenihhin*
 [![Framework: PyTorch](https://img.shields.io/badge/Framework-PyTorch%202.0+-ee4c2c.svg)](https://pytorch.org/)
 [![Dataset: CITYSCAPES](https://img.shields.io/badge/Dataset-CITYSCAPES-green.svg)](https://www.cityscapes-dataset.com/)
 [![Analytics: Scikit-Learn](https://img.shields.io/badge/Analytics-Scikit--Learn-F7931E.svg)](https://scikit-learn.org/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21993740.svg)](https://doi.org/10.5281/zenodo.21993740)
 
 ---
 
@@ -746,6 +747,25 @@ The `Recorder` exports per-frame diagnostic logs to XLSX/CSV. The federated serv
 | Safety veto | `run_simulation.py` | V | {0,1} |
 | Fleet resilience | `federated/` | trust-weighted Δ | scaled update |
 | Audit trail | `log_utils/recorder.py` | per-frame CSV/XLSX | — |
+
+---
+
+## Citation
+
+If you use this code, please cite the archived release:
+
+\`\`\`bibtex
+@software{rahbari_auxai_2026,
+  author       = {Rahbari, Dadmehr and Daneshtalab, Masoud and Jenihhin, Maksim},
+  title        = {Aux-AI Monitor: Trust-Aware Independent Oversight for Industrial AI},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.21993740},
+  url          = {https://doi.org/10.5281/zenodo.21993740}
+}
+\`\`\`
+
+A citation to the accompanying paper will be added here once published.
 
 ---
 
